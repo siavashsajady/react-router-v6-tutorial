@@ -1,6 +1,6 @@
 # About This Repository
 
-This repository belongs to my "how to upgrading React Router from V5 to V6 in our projects" Medium Blog [Post]().
+This repository belongs to my "how to upgrading React Router from V5 to V6 in our projects" Medium Blog [Post](https://medium.com/@siavash.sajjady/how-to-upgrading-react-router-from-v5-to-v6-in-our-projects-5729759b536).
 
 Also check out the official [docs](https://reactrouter.com/) and the official [v5 => v6 upgrade guide](https://reactrouter.com/docs/en/v6/upgrading/v5).
 
